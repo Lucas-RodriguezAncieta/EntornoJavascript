@@ -13,3 +13,12 @@ form.addEventListener("submit", (event) => {
 
   div.innerHTML = "<p>" + sumar(firstNumber, secondNumber) + "</p>";
 });
+
+
+const multiplicarBtn = document.querySelector("#multiplicar-button");
+multiplicarBtn.addEventListener("click", () => {
+  const firstNumber = Number.parseInt(first.value);
+  const secondNumber = Number.parseInt(second.value);
+
+  div.innerHTML = "<p>" + multiplicar(firstNumber, secondNumber) + "</p>";
+});

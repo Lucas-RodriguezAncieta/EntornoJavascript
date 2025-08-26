@@ -19,17 +19,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "761577e019e955501f1244fff21a9c4ca7dd1713",
     "author": "Lucas-RodriguezAncieta",
     "commit": {
       "date": "2025-08-26T06:13:51.000Z",
       "message": "Agregado de funcion de multiplicador,js",
-      "url": "https://github.com/Lucas-RodriguezAncieta/EntornoJavascript/commit/HEAD"
+      "url": "https://github.com/Lucas-RodriguezAncieta/EntornoJavascript/commit/761577e019e955501f1244fff21a9c4ca7dd1713"
     },
     "stats": {
       "total": 14,
       "additions": 14,
       "deletions": 0,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-08-26T06:38:08.000Z",
+      "message": "Arreglo de presenter.js",
+      "url": "https://github.com/Lucas-RodriguezAncieta/EntornoJavascript/commit/HEAD"
+    },
+    "stats": {
+      "total": 16,
+      "additions": 7,
+      "deletions": 9,
       "date": "2025-08-26"
     },
     "coverage": 100,

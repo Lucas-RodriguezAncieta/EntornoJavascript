@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Lucas-RodriguezAncieta",
+    "commit": {
+      "date": "2025-08-26T06:08:35.000Z",
+      "message": "Agregado de boton de multiplicacion",
+      "url": "https://github.com/Lucas-RodriguezAncieta/EntornoJavascript/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 7,
+      "deletions": 2,
+      "date": "2025-08-26"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
